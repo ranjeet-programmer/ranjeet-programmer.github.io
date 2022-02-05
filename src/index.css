@@ -1,0 +1,8 @@
+@import url("https://fonts.googleapis.com/css2?family=Fira+Code&family=Montserrat:wght@500&display=swap");
+
+html {
+  overflow: -hidden;
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
